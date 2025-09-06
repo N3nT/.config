@@ -1,0 +1,17 @@
+[Unit]
+Description=Eww Bar + Voulme Updater
+After=graphical.target
+
+[Service]
+Type=simple
+ExecStart=/bin/bash -c '
+	/usr/bin/eww daemon;
+	/home/bartek/.config/eww/scripts/getvol.sh &
+	wait
+'
+Restart=always
+Environment=DISPLAY=:0
+Environment=XDG_RUNTIME_DIR=/run/user/1000
+
+[Install]
+WantedBy=default.target

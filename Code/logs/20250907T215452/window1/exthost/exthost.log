@@ -1,0 +1,20 @@
+2025-09-07 21:54:54.502 [info] Extension host with pid 6350 started
+2025-09-07 21:54:54.560 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-09-07 21:54:54.621 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-09-07 21:54:54.627 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-09-07 21:54:54.677 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-09-07 21:54:54.853 [info] Eager extensions activated
+2025-09-07 21:54:54.856 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-09-07 21:54:54.858 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-09-07 21:55:14.785 [info] Extension host terminating: renderer closed the MessagePort
+2025-09-07 21:55:14.800 [info] Extension host with pid 6350 exiting with code 0
+2025-09-07 21:55:16.026 [info] Extension host with pid 6798 started
+2025-09-07 21:55:16.026 [info] Skipping acquiring lock for /home/bartek/.config/Code/User/workspaceStorage/04108c741ec10c08a05c6898c0b4638a.
+2025-09-07 21:55:16.084 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-09-07 21:55:16.129 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-09-07 21:55:16.302 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-09-07 21:55:16.319 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-09-07 21:55:16.413 [info] Eager extensions activated
+2025-09-07 21:55:16.414 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-09-07 21:55:16.417 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-09-07 21:55:19.184 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescript'

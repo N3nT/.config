@@ -4,33 +4,39 @@
     "telemetry.devDeviceId": "adb61b68-f2db-420b-9da1-0495f3657269",
     "backupWorkspaces": {
         "workspaces": [],
-        "folders": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/bartek/eww"
+            }
+        ],
         "emptyWindows": [
             {
                 "backupFolder": "1757273728365"
             },
             {
-                "backupFolder": "1757273811418"
+                "backupFolder": "1757275112038"
             }
         ]
     },
     "windowControlHeight": 35,
     "profileAssociations": {
-        "workspaces": {},
+        "workspaces": {
+            "file:///home/bartek/eww": "__default__profile__"
+        },
         "emptyWindows": {
-            "1757273728365": "__default__profile__",
-            "1757273811418": "__default__profile__"
+            "1757275112038": "__default__profile__"
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/bartek/.config/Code/Backups/1757273728365",
+            "folder": "file:///home/bartek/eww",
+            "backupPath": "/home/bartek/.config/Code/Backups/dd860657b45d950cc9bde174638a9baa",
             "uiState": {
                 "mode": 1,
-                "x": 643,
-                "y": 54,
-                "width": 625,
-                "height": 654
+                "x": 12,
+                "y": 76,
+                "width": 1896,
+                "height": 992
             }
         },
         "openedWindows": []
@@ -63,6 +69,18 @@
             "auxiliaryBarWidth": 0,
             "statusBarHeight": 22,
             "windowBorder": false
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 170,
+            "workspaces": {
+                "04108c741ec10c08a05c6898c0b4638a": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                }
+            }
         }
     }
 }

@@ -1,2 +1,3 @@
-2025/09/07-21:35:27.446 112eb Creating DB /home/bartek/.config/Code/Local Storage/leveldb since it was missing.
-2025/09/07-21:35:27.519 112eb Reusing MANIFEST /home/bartek/.config/Code/Local Storage/leveldb/MANIFEST-000001
+2025/09/07-21:54:52.749 184a Reusing MANIFEST /home/bartek/.config/Code/Local Storage/leveldb/MANIFEST-000001
+2025/09/07-21:54:52.753 184a Recovering log #3
+2025/09/07-21:54:52.753 184a Reusing old log /home/bartek/.config/Code/Local Storage/leveldb/000003.log 

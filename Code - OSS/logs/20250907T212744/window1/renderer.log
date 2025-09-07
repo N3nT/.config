@@ -1,0 +1,6 @@
+2025-09-07 21:27:45.234 [info] Started local extension host with pid 30601.
+2025-09-07 21:27:47.977 [info] [perf] Render performance baseline is 47ms
+2025-09-07 21:27:51.101 [warning] Settings pattern "mcp" doesn't match any settings
+2025-09-07 21:27:51.102 [warning] SettingsEditor2: Settings not included in settingsLayout.ts: github.copilot.chat.agent.terminal.allowList, github.copilot.chat.agent.terminal.denyList
+2025-09-07 21:27:52.525 [warning] Settings pattern "mcp" doesn't match any settings
+2025-09-07 21:27:59.732 [warning] Settings pattern "mcp" doesn't match any settings

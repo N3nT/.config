@@ -1,0 +1,5 @@
+2025-09-07 21:26:03.889 [info] Started local extension host with pid 27087.
+2025-09-07 21:26:03.934 [info] Started initializing default profile extensions in extensions installation folder. file:///home/bartek/.vscode-oss/extensions
+2025-09-07 21:26:04.125 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/bartek/.vscode-oss/extensions
+2025-09-07 21:26:04.330 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-09-07 21:26:07.049 [info] [perf] Render performance baseline is 42ms

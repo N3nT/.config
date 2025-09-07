@@ -2,3 +2,10 @@
 session/
 "systemd/usser"/
 code/
+dconf/
+"go/telemetry/local"/
+pulse/
+session/
+"systemd/user"/
+dolphinrc
+trashrc
